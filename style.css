@@ -1,3 +1,4 @@
 body {
-  background-color: linear-gradient(#98ff98, #ff9898);
+  background-color: linear-gradient(180deg, #98ff98, #ff9898);
+  color: darkblue;
 }
