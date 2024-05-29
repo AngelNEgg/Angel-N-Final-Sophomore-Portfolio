@@ -1,4 +1,15 @@
 body {
-  background-color: linear-gradient(180deg, #98ff98, #ff9898);
+  background-color: black;
   color: darkblue;
+  animation-name: space;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes space {
+  0%   {background-color: black;}
+  25%  {background-color: #00001c;}
+  50%  {background-color: #030333;}
+  75% {background-color: #00001c;}
+  100% {background-color: black;}
 }
