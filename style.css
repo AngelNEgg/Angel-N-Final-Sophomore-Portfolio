@@ -15,6 +15,7 @@ body {
 
 h1 {
   color: darkblue;
+  font-family: "Comic Neue", cursive;
   font-weight: bold;
   font-style: italic;
   -webkit-text-stroke-width: 2px;
@@ -26,4 +27,42 @@ div {
   background-color: rgba(7, 166, 184, 0.25);
   border-color: #97fced;
   border-width: 1.5px;
+}
+
+
+
+.comic-neue-light {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.comic-neue-regular {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-neue-bold {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.comic-neue-light-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.comic-neue-regular-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.comic-neue-bold-italic {
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
+  font-style: italic;
 }
