@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  background-image: /*space image here*/;
   animation-name: space;
   animation-duration: 4s;
   animation-iteration-count: infinite;
