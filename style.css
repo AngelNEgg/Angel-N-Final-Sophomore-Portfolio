@@ -34,7 +34,7 @@ div {
   border-color: #97fced;
   border-width: 1.5px;
   animation-name: noise;
-  animation-duration: 4s;
+  animation-duration: 1s;
   animation-iteration-count: infinite;
 }
 
