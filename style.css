@@ -43,6 +43,12 @@ div {
   align-items: center;
 }
 
+hr {
+  border-top: #97fced;
+}
+
+
+
 .comic-neue-light {
   font-family: "Comic Neue", cursive;
   font-weight: 300;
