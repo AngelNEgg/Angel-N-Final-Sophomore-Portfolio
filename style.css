@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  background-image: url("Images/asfalt-light.png");
+  background-image: url("Images/transparent-square-tiles.png");
   animation-name: space;
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -14,6 +14,11 @@ body {
   100% {background-color: black;}
 }
 
+@keyframes noise {
+  0% {background-color: rgba(7, 166, 184, 0.3);}
+  100% {background-color: rgba(7, 166, 184, 0.1);}
+}
+
 h1 {
   color: darkblue;
   font-family: "Comic Neue", cursive;
@@ -25,9 +30,12 @@ h1 {
 
 div {
   color: #97fced;
-  background-color: rgba(7, 166, 184, 0.25);
+  background-color: rgba(7, 166, 184, 0.3);
   border-color: #97fced;
   border-width: 1.5px;
+  animation-name: noise;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 
 
