@@ -8,10 +8,8 @@ body {
 
 @keyframes space {
   0%   {background-color: black;}
-  25%  {background-color: #00001c;}
   50%  {background-color: #030333;}
-  75% {background-color: #00001c;}
-  100% {background-color: black;}
+  100% {background-color: #00001c;}
 }
 
 @keyframes noise {
