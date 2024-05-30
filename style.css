@@ -16,7 +16,7 @@ body {
 
 @keyframes noise {
   0% {background-color: rgba(7, 166, 184, 0.3);}
-  100% {background-color: rgba(7, 166, 184, 0.1);}
+  100% {background-color: rgba(7, 166, 184, 0.25);}
 }
 
 h1 {
@@ -38,7 +38,9 @@ div {
   animation-iteration-count: infinite;
 }
 
-
+.brand {
+  align-items: center;
+}
 
 .comic-neue-light {
   font-family: "Comic Neue", cursive;
