@@ -2,7 +2,7 @@ body {
   background-color: black;
   background-image: url("Images/transparent-square-tiles.png");
   animation-name: space;
-  animation-duration: 4s;
+  animation-duration: 2.5s;
   animation-iteration-count: infinite;
 }
 
