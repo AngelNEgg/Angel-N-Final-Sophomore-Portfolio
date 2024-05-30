@@ -31,8 +31,10 @@ h1 {
 div {
   color: #97fced;
   background-color: rgba(7, 166, 184, 0.3);
+  border: solid;
   border-color: #97fced;
   border-width: 1.5px;
+  border-radius: 12px;
   animation-name: noise;
   animation-duration: 1s;
   animation-iteration-count: infinite;
