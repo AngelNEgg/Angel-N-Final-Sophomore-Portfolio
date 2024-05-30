@@ -30,6 +30,7 @@ h1 {
 
 div {
   color: #97fced;
+  background-image: url("Images/transparent-square-tiles.png")
   border: solid;
   border-color: #97fced;
   border-width: 1.5px;
