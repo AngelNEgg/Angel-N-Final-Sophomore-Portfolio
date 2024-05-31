@@ -1,6 +1,8 @@
 body {
   background-color: black;
-  background-image: url("Images/asfalt-light.png");
+  background-image: url("Images/asfalt-light.png"), url("Images/sun.png");
+  background-position: left top, right center;
+  background-repeat: repeat, no-repeat;
   animation-name: space;
   animation-duration: 2.5s;
   animation-iteration-count: infinite;
