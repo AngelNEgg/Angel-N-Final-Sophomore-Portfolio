@@ -7,9 +7,9 @@ body {
 }
 
 @keyframes space {
-  0%   {background-color: #16161d;}
+  0%   {background-color: black;}
   50%  {background-color: #00001c;}
-  100% {background-color: #16161d;}
+  100% {background-color: black;}
 }
 
 @keyframes noise {
