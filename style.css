@@ -48,7 +48,11 @@ hr {
   border-top: #97fced;
 }
 
-
+a {
+  font-family: "Comic Neue", cursive;
+  font-weight: 400;
+  color: #97fced;
+}
 
 .comic-neue-light {
   font-family: "Comic Neue", cursive;
