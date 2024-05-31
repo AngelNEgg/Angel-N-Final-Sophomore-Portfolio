@@ -40,6 +40,10 @@ div {
   align-items: center;
 }
 
+#links {
+  align-items: center;
+}
+
 hr {
   border-top: #97fced;
 }
